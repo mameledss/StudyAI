@@ -32,7 +32,10 @@ Il modello è reale, ma le raccomandazioni sono dimostrative.
 ### Frontend
 - HTML + CSS
 
-### Installazione librerie 
+## ⬇️ Installazione librerie 
 ```bash
   pip install -r requirements.txt
 ```
+
+## 👤 Autore
+Dalla Santa Manuel
