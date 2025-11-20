@@ -37,5 +37,5 @@ Il modello è reale, ma le raccomandazioni sono dimostrative.
   pip install -r requirements.txt
 ```
 
-## 👤 Autore
+## 👥 Autori
 Bedin Marco & Dalla Santa Manuel
