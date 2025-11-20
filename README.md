@@ -38,4 +38,4 @@ Il modello è reale, ma le raccomandazioni sono dimostrative.
 ```
 
 ## 👤 Autore
-Dalla Santa Manuel
+Bedin Marco & Dalla Santa Manuel
